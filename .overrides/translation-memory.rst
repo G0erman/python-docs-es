@@ -111,6 +111,9 @@ Términos y bigramas
 
      realease
        version ``HOWTO``
+       
+     returns
+       retorna ``library/sqlite3.po``
 
      runtime
        tiempo de ejecución  ``tutorial/classes.po``
